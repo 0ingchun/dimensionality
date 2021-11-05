@@ -4,7 +4,7 @@
 DimensionNoQuit
 ----
 
-![logo](https://github.com/0ingchun/dimensionality/blob/main/qxlarge-dsc-60118CD0C378DBB3EF95433B97595A56.png)
+![APPlogo](https://github.com/0ingchun/dimensionality/blob/main/qxlarge-dsc-60118CD0C378DBB3EF95433B97595A56.png)
 讓你**輕鬆看到異次元，你懂的~**
 
 *out of Dimension*
@@ -29,7 +29,7 @@ DimensionNoQuit
 
 都可以在**次元無戒**中**輕鬆解鎖**您想要的**異**次元，重新定義**優雅**的**瀏覽體驗**
 
-![egpost](https://github.com/0ingchun/dimensionality/blob/main/S11105-235848.jpg)
+![APPpost](https://github.com/0ingchun/dimensionality/blob/main/S11105-235848.jpg)
 
 - **一個6M左右的軟件，在側滑欄內，集成了n多日常實用的"資源"頁**
 
@@ -101,6 +101,6 @@ logo形象參考:~~[神必人]~~
 
 > *made by* **Multimind Technology**
 
-![mtlogo](https://github.com/0ingchun/DimensionNoQuit/blob/main/181ef1e6899666bd.png)
+![APPmascot](https://github.com/0ingchun/dimensionality/blob/main/sketch1633776342197.png)
 
-以上logo圖標為**Multimind Technology**所有，保留所有權利
+以上吉祥物圖標為**Multimind Technology**所有，保留所有權利。logo图标为借用其他画师原画编辑，如有侵权，请联系删除。
