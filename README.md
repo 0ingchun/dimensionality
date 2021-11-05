@@ -13,7 +13,7 @@ DimensionNoQuit
 
 [**Github**下載](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
 
-[**藍奏yun**下載]()密碼:cywj
+[**藍奏yun**下載](https://wws.lanzoui.com/b026i39mb)密碼:cywj
 
 > [*發佈頁*](https://github.com/0ingchun/dimensionality/releases)
 
