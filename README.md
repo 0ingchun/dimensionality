@@ -4,8 +4,7 @@
 DimensionNoQuit
 ----
 
-![logo](https://github.com/MTfloder/DimensionNoQuit/blob/main/qxlarge-dsc-60118CD0C378DBB3EF95433B97595A56.png)
-
+![logo](https://github.com/0ingchun/dimensionality/settings/og-template)
 讓你**輕鬆看到異次元，你懂的~**
 
 *out of Dimension*
@@ -14,7 +13,7 @@ DimensionNoQuit
 
 [**Github**下載]()
 
-[**藍奏yun**下載]()
+[**藍奏yun**下載]()密碼:cywj
 
 > *特性:*
 
