@@ -10,17 +10,11 @@ DimensionNoQuit
 
 *out of Dimension*
 
-> *[下載 Download](https://github.com/MTfloder/DimensionNoQuit/releases):*
+> *下載 Download:*
 
-發佈頁提供有**Github**與**藍奏yun**下載鏈接
+[**Github**下載]()
 
-**点击前往[ 發佈頁 ](https://github.com/MTfloder/DimensionNoQuit/releases)下載軟體**
-
-**点击前往[ 发布页 ](https://github.com/MTfloder/DimensionNoQuit/releases)下载软件**
-
-**Click and Go to [Releases](https://github.com/MTfloder/DimensionNoQuit/releases) Download Software**
-
-**クリックして移動[ リリース ](https://github.com/MTfloder/DimensionNoQuit/releases)ソフトウェアのダウンロード**
+[**藍奏yun**下載]()
 
 > *特性:*
 
