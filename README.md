@@ -29,7 +29,7 @@ DimensionNoQuit
 
 都可以在**次元無戒**中**輕鬆解鎖**您想要的**異**次元，重新定義**優雅**的**瀏覽體驗**
 
-![eg1](https://github.com/MTfloder/DimensionNoQuit/blob/main/S10826-23571905.jpg)
+![egpost](https://github.com/0ingchun/dimensionality/blob/main/S11105-235848.jpg)
 
 - **一個6M左右的軟件，在側滑欄內，集成了n多日常實用的"資源"頁**
 
@@ -101,6 +101,6 @@ logo形象參考:~~[神必人]~~
 
 > *made by* **Multimind Technology**
 
-![mtlogo](https://github.com/MTfloder/DimensionNoQuit/blob/main/181ef1e6899666bd.png)
+![mtlogo](https://github.com/0ingchun/DimensionNoQuit/blob/main/181ef1e6899666bd.png)
 
 以上logo圖標為**Multimind Technology**所有，保留所有權利
