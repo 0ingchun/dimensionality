@@ -11,9 +11,9 @@ DimensionNoQuit
 
 > *下載 Download:*
 
-[**Github**下載](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
+下載通道1：[**Github**下載](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
 
-[**藍奏yun**下載](https://wws.lanzoui.com/b026i39mb)密碼:cywj
+下載通道2：[**藍奏yun**下載](https://wws.lanzoui.com/b026i39mb)密碼:cywj
 
 > [*發佈頁*](https://github.com/0ingchun/dimensionality/releases)
 
@@ -103,4 +103,4 @@ logo形象參考:~~[神必人]~~
 
 ![APPmascot](https://github.com/0ingchun/dimensionality/blob/main/sketch1633776342197.png)
 
-以上吉祥物圖標為**Multimind Technology**所有，保留所有權利。logo图标为借用其他画师原画编辑，如有侵权，请联系删除。
+以上吉祥物圖標為**Multimind Technology**所有，保留所有權利。logo圖標為編輯其他畫師作品的結果，如有侵權，請聯系刪除。
