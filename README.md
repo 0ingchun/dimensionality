@@ -89,9 +89,7 @@ logo形象參考:~~[神必人]~~
 
 視覺效果美工設計:太君
 
-製作者:0ingChun
-
-發佈者:mt-Floder
+整活者:0ingChun
 
 協助後期: omgpizzatnt
 
