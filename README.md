@@ -11,9 +11,11 @@ DimensionNoQuit
 
 > *下載 Download:*
 
-[**Github**下載]()
+[**Github**下載](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
 
 [**藍奏yun**下載]()密碼:cywj
+
+> [*發佈頁*](https://github.com/0ingchun/dimensionality/releases)
 
 > *特性:*
 
@@ -65,10 +67,6 @@ ps.前半部分才是重點好吧~_~
 
 - 如有感覺**身心不適者**，也請立即**卸載刪除**所有有關內容
 
-> *幫助:*
-
-前往：[維基 Wiki](https://github.com/MTfloder/DimensionNoQuit/wiki)
-
 > *更好:*
 
 若**反饋APP的bug或內置連結失效**，请前往[Discussions](https://github.com/MTfloder/DimensionNoQuit/discussions)反饋與討論
@@ -97,7 +95,7 @@ logo形象參考:~~[神必人]~~
 
 協助後期: omgpizzatnt
 
-內鬼:~~[删庫舉報不跑路]~~ 比爾卡學長
+內鬼:~~[删庫舉報不跑路]~~
 
 軟件基於旨在“更優雅的瀏覽體驗”的FusionAPP設計
 
