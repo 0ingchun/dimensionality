@@ -9,11 +9,11 @@ DimensionNoQuit
 
 *out of Dimension*
 
-> *下載 Download:* 最**新**版本
+> **下載 Download:** 最**新**版本
 
-下載通道1：[**Github_Download下載**](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
+*下載*通道*1*：[**Github_Download下載**](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
 
-下載通道2：[**藍奏yun下載**](https://wws.lanzoui.com/b026i39mb)密碼:cywj
+*下載*通道*2*：[**藍奏yun下載**](https://wws.lanzoui.com/b026i39mb)密碼:cywj
 
 > [*發佈頁*](https://github.com/0ingchun/dimensionality/releases)
 
