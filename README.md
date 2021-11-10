@@ -81,7 +81,7 @@ ps.前半部分才是重點好吧~_~
 
 > *鳴謝:*
 
-由 MultimindTechnology （多樣思想技術）製作組開發
+由 MultimindTechnology （多樣思想技術）組開發
 
 次元無戒舊“龍女僕”形象原畫師:kk
 
@@ -91,7 +91,7 @@ logo形象參考:~~[神必人]~~
 
 視覺效果美工設計:太君
 
-整活者:0ingChun
+整活人:0ingChun
 
 協助後期: omgpizzatnt
 
