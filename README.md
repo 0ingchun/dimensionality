@@ -11,7 +11,7 @@ DimensionNoQuit
 
 > *下載 Download:* 最**新**版本
 
-下載通道1：[**Github**下載](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
+下載通道1：[**Github_Download**下載](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-latest_release.apk)
 
 下載通道2：[**藍奏yun**下載](https://wws.lanzoui.com/b026i39mb)密碼:cywj
 
