@@ -15,7 +15,9 @@ DimensionNoQuit
 
 下載通道2：[**藍奏yun**下載](https://wws.lanzoui.com/b026i39mb)密碼:cywj
 
-> 你可以在[*發佈頁*](https://github.com/0ingchun/dimensionality/releases)查看詳細更新內容和版本
+> [*發佈頁*](https://github.com/0ingchun/dimensionality/releases)
+
+查看詳細更新日誌內容和版本
 
 > *特性:*
 
