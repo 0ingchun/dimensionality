@@ -1,7 +1,7 @@
 # dimensionality
 次元無戒 out of Dimensionality App
 # 次元無戒
-DimensionBoundless
+ Boundless Dimension
 ----
 
 ![APPlogo](https://github.com/0ingchun/dimensionality/blob/main/qxlarge-dsc-60118CD0C378DBB3EF95433B97595A56.png)
