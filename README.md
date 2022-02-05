@@ -97,7 +97,7 @@ logo形象參考:~~[神必人]~~
 
 內鬼:~~[删庫舉報不跑路]~~
 
-軟件基於旨在“更優雅的瀏覽體驗”的FusionAPP設計
+軟件基於旨在“更優雅的瀏覽體驗”的 FusionAPP 設計
 
 > *made by* **Multimind Technology**
 
