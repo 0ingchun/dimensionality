@@ -11,7 +11,7 @@
 
 > **下載 Download:** 最**新**版本
 
-*下載*通道*1*：[**Github_Download下載**](https://github.com/0ingchun/dimensionality/releases/download/DimensionNoQuit/DimensionNoQuit-stable_release.apk)
+*下載*通道*1*：[**Github_Download下載**](https://github.com/0ingchun/dimensionality/releases/download/BoundlessDimension/DimensionNoQuit-stable_release.apk)
 
 *下載*通道*2*：[**藍奏yun下載**](https://wws.lanzoui.com/b026i39mb)密碼:cywj
 
