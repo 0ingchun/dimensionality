@@ -26,7 +26,7 @@
 
 ![p6](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_223328.jpg)
 
-7.
+7.頂部功能按鈕：菜單，閱讀模式，分享複製，頁面後退，刷新，頁面前進，退出
 
 ![p7](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_225118.jpg)
 
