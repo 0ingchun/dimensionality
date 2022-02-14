@@ -12,7 +12,7 @@
 
 3.
 
-![p3](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_223047.jpg)
+![p3](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_222724.jpg)
 
 4.
 
@@ -20,7 +20,7 @@
 
 5.
 
-![p5](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_222724.jpg)
+![p5](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_223047.jpg)
 
 6.
 
