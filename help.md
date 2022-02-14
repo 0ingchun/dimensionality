@@ -20,7 +20,7 @@
 
 ![p4](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_223522.jpg)
 
-5.底欄的 α和β 為兩個可 雙開 的界面，點擊 或在 界面上划動 即可 切換
+5.底欄的 α和β 為兩個可 雙開 的界面，點擊圖標 或在 界面上划動 即可 切換
 
 ![p5](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_223047.jpg)
 
