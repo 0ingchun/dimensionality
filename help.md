@@ -1,5 +1,7 @@
 # 新人幫助
 
+![p1](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_224310.jpg)
+
 1.左側向右滑動 或 點擊左上角按鈕 解鎖 完整次元
 
 2.有的頁面可能要架上 梯子
