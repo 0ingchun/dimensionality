@@ -19,6 +19,10 @@
 
 查看詳細更新日誌內容和版本
 
+----
+
+> [*使用幫助*](https://github.com/0ingchun/dimensionality/blob/main/help.md)
+
 > *特性:*
 
 - *電阻(R＝**l**＊**s**/**p**)們必備的“資源”軟件*
