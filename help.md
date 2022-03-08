@@ -32,6 +32,8 @@
 
 ![p7](https://github.com/0ingchun/dimensionality/blob/main/IMG_20220214_225118.jpg)
 
+8.如需在App內 下載文件 ，請手動在設置處賦予 存儲空間 權限
+
 ----
 
 - **頁面 無法載入**？
