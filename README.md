@@ -19,7 +19,7 @@
 
 ----
 
-> [*使用幫助*](https://github.com/0ingchun/dimensionality/blob/main/help.md)
+> [*使用幫助&App預覽*](https://github.com/0ingchun/dimensionality/blob/main/help.md)
 
 > *特性:*
 
