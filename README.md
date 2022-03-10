@@ -3,6 +3,7 @@
 ----
 
 ![APPlogo](https://github.com/0ingchun/dimensionality/blob/main/qxlarge-dsc-60118CD0C378DBB3EF95433B97595A56.png)
+
 讓你**輕鬆看到異次元，你懂的~**
 
 *out of Dimension*
