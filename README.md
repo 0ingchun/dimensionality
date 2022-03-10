@@ -11,7 +11,7 @@
 
 *下載*通道*1*：[**Github_Download下載**](https://github.com/0ingchun/dimensionality/releases/download/BoundlessDimension/BoundlessDimension-stable_release.apk)
 
-*下載*通道*2*：[**藍奏yun下載**](https://wws.lanzoui.com/b026i39mb)密碼:cywj
+*下載*通道*2*：[**藍奏yun下載**](404資源暫時關閉)密碼:cywj
 
 > [*App發佈頁*](https://github.com/0ingchun/dimensionality/releases)
 
